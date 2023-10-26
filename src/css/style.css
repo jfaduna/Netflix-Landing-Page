@@ -1,0 +1,25 @@
+:root {
+    --primary-color: #e50914;
+}
+
+body {
+    background: #000;
+    color: #999;
+}
+
+ul {
+    list-style: none;
+}
+
+h1, h2, h3, h4 {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.showcase {
+    background: url('../img/background.jpeg') no-repeat center;
+}
